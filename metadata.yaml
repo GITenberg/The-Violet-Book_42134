@@ -1,0 +1,27 @@
+_repo: The-Violet-Book_42134
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Allen, Willis Boyd
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '41542'
+    url: http://www.gutenberg.org/2009/agents/41542
+covers:
+- cover_type: archival
+  image_path: 42134-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42134'
+  lccn: 09025759
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violets -- Poetry'
+- !lcc 'PN'
+title: The Violet Book
+url: http://www.gutenberg.org/ebooks/42134
