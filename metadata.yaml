@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 42134-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42134#The-Violet-Book
 gutenberg_issued: '2013-02-19'
 gutenberg_type: Text
 identifiers:
